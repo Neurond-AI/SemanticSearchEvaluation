@@ -6,7 +6,7 @@
 - Doing this for all the questions in the sample will give a score for each question.
 - Sum up all the score for the smart search system, and divide with the total number of questions in the sample.
 - Do all the above steps with top-6, top-8 and top-10 answers for each question and then multiple them together to get the final results.
----
+
 #### The query.xlsx and the data.xlsx file are the sample data for queries and results of queries which is indexed in ID column. They are manually labelled.
----
+
 #### The json files in the input folder are the output of different semantic search systems.
